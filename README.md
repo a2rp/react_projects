@@ -5,13 +5,18 @@ A collection of complete React applications built to explore practical product w
 ## Projects
 
 - **[Hirly — Applicant Tracking System](projects/applicant-tracking-system/README.md)** — A frontend hiring workspace for managing roles, candidate profiles, interviews, scorecards, and pipeline stages.
+- **[Morrow — Appointment Booking](projects/appointment-booking/README.md)** — A responsive appointment request flow for browsing services, choosing a time, and reviewing a booking.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
 
 ```text
 react_projects/
 ├── projects/
-│   └── applicant-tracking-system/
+│   ├── applicant-tracking-system/
+│   │   ├── src/
+│   │   ├── package.json
+│   │   └── README.md
+│   └── appointment-booking/
 │       ├── src/
 │       ├── package.json
 │       └── README.md
