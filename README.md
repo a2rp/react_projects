@@ -94,6 +94,8 @@ react_projects/
 `-- README.md
 ```
 
+- **[Community Poll Builder](projects/community-poll-builder/README.md)** - A local-first community polling demo with poll creation, voting, search, and results.
+
 ## Getting started
 
 Open a project folder and follow its README for prerequisites, environment configuration, and run commands. Projects may use different React versions and tools.
