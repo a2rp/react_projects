@@ -254,3 +254,5 @@ Open a project folder and follow its README for prerequisites, environment confi
 The collection is licensed under the MIT License. Individual projects may include additional license or attribution requirements; check their README files before reuse.
 
 - **[NEXUS Digital Experience Studio](projects/featured1/README.md)** - A polished landing page for a fictional digital studio, with work, capabilities, about, and contact sections.
+
+- **[Goodthing Gift Idea Organizer](projects/gift-idea-organizer/README.md)** - A browser-local gift planner for recipients, occasions, budgets, and purchase status.
