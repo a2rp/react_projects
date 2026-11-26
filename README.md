@@ -14,6 +14,7 @@ A collection of complete React applications built to explore practical product w
 - **[Bookmark Organizer](projects/bookmark-organizer/README.md)** - A browser-local bookmark library with collections, favorites, search, and JSON export.
 - **[BlueSky Workspace Solutions](projects/bluesky-workspace/README.md)** - A responsive workspace-services concept site with services, projects, pricing, and contact pages.
 - **[Wine Dataset Statistics](projects/calculate-mean-median-mode-from-array-of-objects/README.md)** - A React dashboard comparing mean, median, and mode for measurements in the UCI Wine dataset.
+- **[Calendar Planner](projects/calendar-planner/README.md)** - A browser-local month calendar for scheduling and reviewing personal events.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
@@ -61,7 +62,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- calculate-mean-median-mode-from-array-of-objects/
+|   |-- calculate-mean-median-mode-from-array-of-objects/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- calendar-planner/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
