@@ -58,6 +58,8 @@ A collection of complete React applications built to explore practical product w
 
 - **[Maison North Hotel Operations](projects/hotel-property-management/README.md)** - A frontend hotel desk for reservations, room readiness, arrivals, and guest stays.
 
+- **[Morrow HR](projects/hrms/README.md)** - A frontend HR workspace for employee records, attendance, leave requests, and payroll estimates.
+
 - **[Milepost Fitness Progress Dashboard](projects/fitness-progress-dashboard/README.md)** - A local-first workout tracker with activity history, weekly goals, trends, and CSV export.
 
 - **[Framer Motion Demos](projects/framer-motion-demos/README.md)** - A route-based gallery of motion patterns for transitions, gestures, overlays, charts, and scroll interactions.
@@ -242,6 +244,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- hotel-property-management/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   |-- hrms/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
