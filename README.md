@@ -264,3 +264,5 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Grocery List Manager](projects/grocery-list-manager/README.md)** - A browser-local grocery list with categories, quantities, search, and purchase tracking.
 
 - **[Market Day Grocery List Planner](projects/grocery-list-planner/README.md)** - A local shopping planner with aisle filters, basket tracking, and estimated totals.
+
+- **[Habit Tracker](projects/habit-tracker/README.md)** - A browser-local weekly habit grid with check-ins, streak counts, and week navigation.
