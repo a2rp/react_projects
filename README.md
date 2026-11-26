@@ -26,6 +26,7 @@ A collection of complete React applications built to explore practical product w
 - **[Calorie Counter](projects/calorie-counter/README.md)** - A local-first meal tracker for logging calories and comparing daily intake with a personal goal.
 - **[Calorie Intake Estimator](projects/calorie-intake-estimator/README.md)** - A client-side educational estimate of resting energy, maintenance calories, and a goal-adjusted intake target.
 - **[Community Poll Builder](projects/community-poll-builder/README.md)** - A local-first community polling demo with poll creation, voting, search, and results.
+- **[Murmur - Customer Feedback Dashboard](projects/customer-feedback-dashboard/README.md)** - A local-first feedback inbox for reviewing responses, tracking sentiment, and managing follow-up.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
@@ -117,10 +118,14 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- calorie-intake-estimator/
-|       |-- src/
-|       |-- package.json
-|       `-- README.md
+|   |-- calorie-intake-estimator/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- customer-feedback-dashboard/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
 |-- LICENSE
 `-- README.md
 ```
