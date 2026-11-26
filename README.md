@@ -43,6 +43,8 @@ A collection of complete React applications built to explore practical product w
 - **[Engineering JavaScript Internals](projects/engineering-javascript-internals/README.md)** - An interactive guide to JavaScript execution, async behavior, memory, objects, and language features.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
+- **[Ledgerly ERP Business Operations](projects/erp-business-operations/README.md)** - A connected frontend workspace for sales orders, inventory, procurement, and receivables.
+
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
 
 ```text
@@ -192,7 +194,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- engineering-javascript-internals/
+|   |-- engineering-javascript-internals/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- erp-business-operations/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
