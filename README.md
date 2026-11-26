@@ -62,6 +62,7 @@ A collection of complete React applications built to explore practical product w
 - **[Proof - Insurance Claims Management](projects/insurance-claims-management/README.md)** - A claims workspace for intake, evidence review, settlements, and reporting.
 - **[Rackline Inventory Dashboard](projects/inventory-dashboard/README.md)** - A browser-local stock workspace for product counts, reorder points, and inventory movements.
 - **[Northstar Investment Watchlist](projects/investment-watchlist/README.md)** - A browser-local tracker for quotes, units, price targets, and saved investments.
+- **[Paperline Invoice Builder](projects/invoice-builder/README.md)** - A browser-local tool for editing invoices, calculating tax, and printing or saving PDFs.
 
 - **[Morrow HR](projects/hrms/README.md)** - A frontend HR workspace for employee records, attendance, leave requests, and payroll estimates.
 
@@ -265,6 +266,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- investment-watchlist/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   |-- invoice-builder/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
