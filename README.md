@@ -9,6 +9,7 @@ A collection of complete React applications built to explore practical product w
 - **[Assignment Planner](projects/assignment-planner/README.md)** - A local-first coursework planner with deadline tracking, assignment workflows, dashboard summaries, and CSV/calendar exports.
 - **[Atlas Supply - Wholesale Marketplace](projects/b2b-wholesale-marketplace/README.md)** - A frontend procurement workspace for comparing products and suppliers, reviewing quote requests, and tracking purchase orders.
 - **[Chakra UI Showcase](projects/chakra-ui-showcase/README.md)** - A responsive React showcase for exploring Chakra UI components, themes, working interface patterns, and practical examples.
+- **[Clinic Management System](projects/clinic-management-system/README.md)** - A frontend-only clinic workspace for managing appointments, patient records, and care-team shifts with fictional demo data.
 - **[BMI Calculator](projects/bmi-calculator/README.md)** - A responsive BMI tool with unit conversion, English/Hindi UI, browser-local history, and CSV export.
 - **[Blood Bank](projects/blood-bank/README.md)** - A local-first donor directory demo with searchable records, validated registration, and fictional sample data.
 - **[Book Reading List](projects/book-reading-list/README.md)** - A browser-local reading tracker for book status, progress, notes, and dates.
@@ -42,6 +43,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- chakra-ui-showcase/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   |-- clinic-management-system/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md

@@ -1,0 +1,10 @@
+.appShell { min-height: 100vh; display: flex; flex-direction: column; background: #f3f7f5; }
+.main { flex: 1 0 auto; min-height: calc(100vh - 180px); padding-top: 78px; }
+.notFound { width: min(100% - 40px, 600px); min-height: 58vh; display: grid; justify-items: start; align-content: center; gap: 14px; margin: 0 auto; color: #65766f; }
+.notFound > span { color: #3b8265; font-size: 14px; font-weight: 800; letter-spacing: .12em; }
+.notFound h1 { color: #1b4439; font-family: Georgia, serif; font-size: clamp(32px, 6vw, 48px); line-height: 1.08; }
+.notFound p { font-size: 15px; }
+.notFound a { display: inline-flex; align-items: center; gap: 8px; margin-top: 8px; border-radius: 9px; padding: 12px 15px; background: #1c5145; color: #fff; font-size: 14px; font-weight: 700; }
+.notFound a:hover { background: #143f35; }
+
+@media (max-width: 760px) { .main { padding-top: 70px; } }
