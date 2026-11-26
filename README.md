@@ -4,6 +4,7 @@ A collection of complete React applications built to explore practical product w
 
 ## Projects
 
+- **[Morrow Editorial Studio](projects/content-management-system/README.md)** - A frontend editorial workspace for planning, drafting, reviewing, and scheduling content.
 - **[Hirly - Applicant Tracking System](projects/applicant-tracking-system/README.md)** - A frontend hiring workspace for managing roles, candidate profiles, interviews, scorecards, and pipeline stages.
 - **[Morrow - Appointment Booking](projects/appointment-booking/README.md)** - A responsive appointment request flow for browsing services, choosing a time, and reviewing a booking.
 - **[Assignment Planner](projects/assignment-planner/README.md)** - A local-first coursework planner with deadline tracking, assignment workflows, dashboard summaries, and CSV/calendar exports.
@@ -19,6 +20,7 @@ A collection of complete React applications built to explore practical product w
 - **[Calendar Planner](projects/calendar-planner/README.md)** - A browser-local month calendar for scheduling and reviewing personal events.
 - **[Calorie Counter](projects/calorie-counter/README.md)** - A local-first meal tracker for logging calories and comparing daily intake with a personal goal.
 - **[Calorie Intake Estimator](projects/calorie-intake-estimator/README.md)** - A client-side educational estimate of resting energy, maintenance calories, and a goal-adjusted intake target.
+- **[Community Poll Builder](projects/community-poll-builder/README.md)** - A local-first community polling demo with poll creation, voting, search, and results.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
@@ -26,6 +28,10 @@ Projects live in their own folders under `projects/`. Each project includes its 
 ```text
 react_projects/
 |-- projects/
+|   |-- content-management-system/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
 |   |-- applicant-tracking-system/
 |   |   |-- src/
 |   |   |-- package.json
@@ -93,8 +99,6 @@ react_projects/
 |-- LICENSE
 `-- README.md
 ```
-
-- **[Community Poll Builder](projects/community-poll-builder/README.md)** - A local-first community polling demo with poll creation, voting, search, and results.
 
 ## Getting started
 
