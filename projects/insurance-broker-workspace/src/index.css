@@ -1,0 +1,60 @@
+﻿:root {
+  font-family: "Segoe UI", Arial, sans-serif;
+  color: #18383e;
+  background: #f2f6f4;
+  font-size: 16px;
+  line-height: 1.5;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  --ink: #18383e;
+  --muted: #778782;
+  --line: #e2e9e6;
+  --green: #278766;
+  --gold: #dfa951;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  min-width: 320px;
+  scroll-behavior: smooth;
+}
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  font-size: 16px;
+  line-height: 1.5;
+  background: #f2f6f4;
+}
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+}
+button {
+  cursor: pointer;
+}
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid #8bcbaa;
+  outline-offset: 2px;
+}
+a {
+  color: inherit;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-size: inherit;
+  font-weight: inherit;
+}

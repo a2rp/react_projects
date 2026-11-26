@@ -58,6 +58,7 @@ A collection of complete React applications built to explore practical product w
 - **[Sipline Hydration Tracker](projects/hydration-tracker/README.md)** - A local-first water tracker with daily goals, drink history, and a seven-day progress chart.
 
 - **[Maison North Hotel Operations](projects/hotel-property-management/README.md)** - A frontend hotel desk for reservations, room readiness, arrivals, and guest stays.
+- **[Aster Insurance Broker Workspace](projects/insurance-broker-workspace/README.md)** - A frontend workspace for client accounts, policies, renewals, and service requests.
 
 - **[Morrow HR](projects/hrms/README.md)** - A frontend HR workspace for employee records, attendance, leave requests, and payroll estimates.
 
@@ -245,6 +246,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- hotel-property-management/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   |-- insurance-broker-workspace/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
