@@ -262,3 +262,5 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Candor Governance, Risk & Compliance](projects/governance-risk-compliance/README.md)** - A frontend-only GRC workspace for controls, audits, evidence review, and remediation findings.
 
 - **[Grocery List Manager](projects/grocery-list-manager/README.md)** - A browser-local grocery list with categories, quantities, search, and purchase tracking.
+
+- **[Market Day Grocery List Planner](projects/grocery-list-planner/README.md)** - A local shopping planner with aisle filters, basket tracking, and estimated totals.
