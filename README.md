@@ -45,6 +45,8 @@ A collection of complete React applications built to explore practical product w
 
 - **[Ledgerly ERP Business Operations](projects/erp-business-operations/README.md)** - A connected frontend workspace for sales orders, inventory, procurement, and receivables.
 
+- **[Gatherwell Event RSVP Manager](projects/event-rsvp-manager/README.md)** - An event planning workspace for event details, guest responses, capacity, check-in, and exports.
+
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
 
 ```text
@@ -198,7 +200,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- erp-business-operations/
+|   |-- erp-business-operations/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- event-rsvp-manager/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
