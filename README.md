@@ -4,6 +4,7 @@ A collection of complete React applications built to explore practical product w
 
 ## Projects
 
+- **[Core HTML Interactive Notes](projects/core-html/README.md)** - An interactive HTML learning workspace with semantic, accessibility, form, and browser demos.
 - **[Pactline - Contract Lifecycle Management](projects/contract-lifecycle-management/README.md)** - A frontend contract workspace for agreement records, reviews, renewals, and playbooks.
 - **[Morrow Editorial Studio](projects/content-management-system/README.md)** - A frontend editorial workspace for planning, drafting, reviewing, and scheduling content.
 - **[Hirly - Applicant Tracking System](projects/applicant-tracking-system/README.md)** - A frontend hiring workspace for managing roles, candidate profiles, interviews, scorecards, and pipeline stages.
@@ -29,6 +30,10 @@ Projects live in their own folders under `projects/`. Each project includes its 
 ```text
 react_projects/
 |-- projects/
+|   |-- core-html/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
 |   |-- contract-lifecycle-management/
 |   |   |-- src/
 |   |   |-- package.json
