@@ -32,6 +32,7 @@ A collection of complete React applications built to explore practical product w
 - **[Relay Customer Support Desk](projects/customer-support-desk/README.md)** - A frontend support workspace for conversation queues, customer records, and team reports.
 - **[Dash Lead CRM Lite](projects/dash-lead-crm-lite/README.md)** - A browser-based CRM for lead pipelines, tasks, and follow-ups.
 - **[Wayfarer Destination Discovery Guide](projects/destination-discovery-guide/README.md)** - A curated travel guide with style filters and a private saved list.
+- **[Vela Digital Banking Dashboard](projects/digital-banking-dashboard/README.md)** - A frontend-only banking workspace for sample accounts, transaction review, demo transfers, card controls, and savings goals.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
@@ -147,10 +148,14 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- destination-discovery-guide/
+|   |-- destination-discovery-guide/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
+|   `-- digital-banking-dashboard/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
 |-- LICENSE
 `-- README.md
 ```
