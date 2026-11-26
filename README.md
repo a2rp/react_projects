@@ -258,3 +258,5 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Goodthing Gift Idea Organizer](projects/gift-idea-organizer/README.md)** - A browser-local gift planner for recipients, occasions, budgets, and purchase status.
 
 - **[Goal Planner](projects/goal-planner/README.md)** - A local-first goal tracker with target dates, progress sliders, and milestone steps.
+
+- **[Candor Governance, Risk & Compliance](projects/governance-risk-compliance/README.md)** - A frontend-only GRC workspace for controls, audits, evidence review, and remediation findings.
