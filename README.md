@@ -260,3 +260,5 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Goal Planner](projects/goal-planner/README.md)** - A local-first goal tracker with target dates, progress sliders, and milestone steps.
 
 - **[Candor Governance, Risk & Compliance](projects/governance-risk-compliance/README.md)** - A frontend-only GRC workspace for controls, audits, evidence review, and remediation findings.
+
+- **[Grocery List Manager](projects/grocery-list-manager/README.md)** - A browser-local grocery list with categories, quantities, search, and purchase tracking.
