@@ -40,6 +40,7 @@ A collection of complete React applications built to explore practical product w
 - **[Morrow & Made Storefront](projects/ecommerce-storefront/README.md)** - A local-only storefront demo with catalog, cart, checkout, and sample order confirmation.
 - **[Shiftline Employee Shift Scheduler](projects/employee-shift-scheduler/README.md)** - A browser-local workforce planner for weekly shifts, coverage gaps, team filters, and workload targets.
 - **[Engineering DSA Foundations](projects/engineering-dsa-foundations/README.md)** - An interactive reference to data structures, algorithms, complexity, and problem-solving patterns.
+- **[Engineering JavaScript Internals](projects/engineering-javascript-internals/README.md)** - An interactive guide to JavaScript execution, async behavior, memory, objects, and language features.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
@@ -187,7 +188,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- engineering-dsa-foundations/
+|   |-- engineering-dsa-foundations/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- engineering-javascript-internals/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
