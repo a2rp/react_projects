@@ -55,6 +55,8 @@ A collection of complete React applications built to explore practical product w
 
 - **[Milepost Fitness Progress Dashboard](projects/fitness-progress-dashboard/README.md)** - A local-first workout tracker with activity history, weekly goals, trends, and CSV export.
 
+- **[Framer Motion Demos](projects/framer-motion-demos/README.md)** - A route-based gallery of motion patterns for transitions, gestures, overlays, charts, and scroll interactions.
+
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
 
 ```text
@@ -228,7 +230,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- fitness-progress-dashboard/
+|   |-- fitness-progress-dashboard/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- framer-motion-demos/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
