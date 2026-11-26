@@ -10,6 +10,7 @@ A collection of complete React applications built to explore practical product w
 - **[Atlas Supply - Wholesale Marketplace](projects/b2b-wholesale-marketplace/README.md)** - A frontend procurement workspace for comparing products and suppliers, reviewing quote requests, and tracking purchase orders.
 - **[BMI Calculator](projects/bmi-calculator/README.md)** - A responsive BMI tool with unit conversion, English/Hindi UI, browser-local history, and CSV export.
 - **[Blood Bank](projects/blood-bank/README.md)** - A local-first donor directory demo with searchable records, validated registration, and fictional sample data.
+- **[Bookmark Organizer](projects/bookmark-organizer/README.md)** - A browser-local bookmark library with collections, favorites, search, and JSON export.
 - **[BlueSky Workspace Solutions](projects/bluesky-workspace/README.md)** - A responsive workspace-services concept site with services, projects, pricing, and contact pages.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
@@ -39,6 +40,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- blood-bank/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   |-- bookmark-organizer/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
