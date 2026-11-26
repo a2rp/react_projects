@@ -27,6 +27,7 @@ A collection of complete React applications built to explore practical product w
 - **[Calorie Intake Estimator](projects/calorie-intake-estimator/README.md)** - A client-side educational estimate of resting energy, maintenance calories, and a goal-adjusted intake target.
 - **[Community Poll Builder](projects/community-poll-builder/README.md)** - A local-first community polling demo with poll creation, voting, search, and results.
 - **[Murmur - Customer Feedback Dashboard](projects/customer-feedback-dashboard/README.md)** - A local-first feedback inbox for reviewing responses, tracking sentiment, and managing follow-up.
+- **[Sonder - Customer Feedback](projects/customer-feedback-platform/README.md)** - A frontend workspace for organizing customer feedback, follow-up, and product themes.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
@@ -122,10 +123,14 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- customer-feedback-dashboard/
+|   |-- customer-feedback-dashboard/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
+|   `-- customer-feedback-platform/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
 |-- LICENSE
 `-- README.md
 ```
