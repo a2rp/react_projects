@@ -57,6 +57,8 @@ A collection of complete React applications built to explore practical product w
 
 - **[Framer Motion Demos](projects/framer-motion-demos/README.md)** - A route-based gallery of motion patterns for transitions, gestures, overlays, charts, and scroll interactions.
 
+- **[Continuous Current Date Time](projects/basic-react.js-continuous-display-current-datetime/README.md)** - A focused React app that displays the current date, time, and browser time zone.
+
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
 
 ```text
