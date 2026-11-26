@@ -51,6 +51,8 @@ A collection of complete React applications built to explore practical product w
 
 - **[Ledgerly Expense Tracker](projects/expense-tracker/README.md)** - A browser-local income, expense, and budget tracker with searchable transactions and monthly summaries.
 
+- **[GitHub Profile Finder](projects/fetch-github-profile/README.md)** - A profile lookup app for public GitHub accounts, with responsive profile details and repository metrics.
+
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
 
 ```text
@@ -216,7 +218,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- expense-tracker/
+|   |-- expense-tracker/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- fetch-github-profile/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
