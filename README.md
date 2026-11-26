@@ -29,6 +29,7 @@ A collection of complete React applications built to explore practical product w
 - **[Murmur - Customer Feedback Dashboard](projects/customer-feedback-dashboard/README.md)** - A local-first feedback inbox for reviewing responses, tracking sentiment, and managing follow-up.
 - **[Sonder - Customer Feedback](projects/customer-feedback-platform/README.md)** - A frontend workspace for organizing customer feedback, follow-up, and product themes.
 - **[Harbor Customer Success Platform](projects/customer-success-platform/README.md)** - A customer success workspace for account health, renewals, playbooks, follow-up, and insights.
+- **[Relay Customer Support Desk](projects/customer-support-desk/README.md)** - A frontend support workspace for conversation queues, customer records, and team reports.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
@@ -132,7 +133,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- customer-success-platform/
+|   |-- customer-success-platform/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- customer-support-desk/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
