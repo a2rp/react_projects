@@ -49,6 +49,8 @@ A collection of complete React applications built to explore practical product w
 
 - **[Exam Atlas](projects/exam-countdown-planner/README.md)** - A study planner for upcoming exams with countdowns, priorities, coverage notes, and local persistence.
 
+- **[Ledgerly Expense Tracker](projects/expense-tracker/README.md)** - A browser-local income, expense, and budget tracker with searchable transactions and monthly summaries.
+
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
 
 ```text
@@ -210,7 +212,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- exam-countdown-planner/
+|   |-- exam-countdown-planner/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- expense-tracker/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
