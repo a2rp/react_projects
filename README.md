@@ -33,6 +33,7 @@ A collection of complete React applications built to explore practical product w
 - **[Dash Lead CRM Lite](projects/dash-lead-crm-lite/README.md)** - A browser-based CRM for lead pipelines, tasks, and follow-ups.
 - **[Wayfarer Destination Discovery Guide](projects/destination-discovery-guide/README.md)** - A curated travel guide with style filters and a private saved list.
 - **[Vela Digital Banking Dashboard](projects/digital-banking-dashboard/README.md)** - A frontend-only banking workspace for sample accounts, transaction review, demo transfers, card controls, and savings goals.
+- **[Bowl and Bark](projects/dog-food-website-frontend-design/README.md)** - A responsive dog food storefront concept with product discovery, service, review, FAQ, and detail pages.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
@@ -152,7 +153,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- digital-banking-dashboard/
+|   |-- digital-banking-dashboard/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- dog-food-website-frontend-design/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md

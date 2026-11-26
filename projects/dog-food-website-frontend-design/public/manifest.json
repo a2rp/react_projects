@@ -1,0 +1,17 @@
+{
+  "short_name": "Bowl & Bark",
+  "name": "Bowl and Bark",
+  "description": "Explore Bowl and Bark dog meal recipes, product details, and feeding guidance.",
+  "icons": [
+    {
+      "src": "bowl-and-bark-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#17382d",
+  "background_color": "#f7f3eb"
+}

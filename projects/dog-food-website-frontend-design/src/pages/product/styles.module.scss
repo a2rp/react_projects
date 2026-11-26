@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+
+    .main {
+        width: 100%;
+        max-width: 1440px;
+        padding: 30px;
+
+        .title {
+            font-size: 32px;
+            font-weight: 900;
+        }
+
+        .outlet {
+            margin-top: 15px;
+        }
+    }
+}
