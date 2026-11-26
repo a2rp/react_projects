@@ -4,6 +4,7 @@ A collection of complete React applications built to explore practical product w
 
 ## Projects
 
+- **[Kinfield CRM Contact Board](projects/crm-contact-board/README.md)** - A local-first contact workspace with relationship stages, follow-ups, search, and CSV export.
 - **[Coursebook - Course Progress Tracker](projects/course-progress-tracker/README.md)** - A browser-local course dashboard for tracking lessons and progress across learning paths.
 - **[Core HTML Interactive Notes](projects/core-html/README.md)** - An interactive HTML learning workspace with semantic, accessibility, form, and browser demos.
 - **[Pactline - Contract Lifecycle Management](projects/contract-lifecycle-management/README.md)** - A frontend contract workspace for agreement records, reviews, renewals, and playbooks.
@@ -31,6 +32,10 @@ Projects live in their own folders under `projects/`. Each project includes its 
 ```text
 react_projects/
 |-- projects/
+|   |-- crm-contact-board/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
 |   |-- course-progress-tracker/
 |   |   |-- src/
 |   |   |-- package.json
