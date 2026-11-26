@@ -42,6 +42,7 @@ A collection of complete React applications built to explore practical product w
 - **[Engineering DSA Foundations](projects/engineering-dsa-foundations/README.md)** - An interactive reference to data structures, algorithms, complexity, and problem-solving patterns.
 - **[Engineering JavaScript Internals](projects/engineering-javascript-internals/README.md)** - An interactive guide to JavaScript execution, async behavior, memory, objects, and language features.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
+- **[Basic Structure](projects/basic-structure/README.md)** - A Vite and React starter with lazy-loaded routes, styled-components, and GitHub Pages support.
 
 - **[Ledgerly ERP Business Operations](projects/erp-business-operations/README.md)** - A connected frontend workspace for sales orders, inventory, procurement, and receivables.
 
