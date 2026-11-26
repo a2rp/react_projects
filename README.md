@@ -54,6 +54,8 @@ A collection of complete React applications built to explore practical product w
 
 - **[GitHub Profile Finder](projects/fetch-github-profile/README.md)** - A profile lookup app for public GitHub accounts, with responsive profile details and repository metrics.
 
+- **[House Ledger - Home Maintenance Log](projects/home-maintenance-log/README.md)** - A browser-local planner for recurring home-care tasks, due dates, and completed maintenance history.
+
 - **[Milepost Fitness Progress Dashboard](projects/fitness-progress-dashboard/README.md)** - A local-first workout tracker with activity history, weekly goals, trends, and CSV export.
 
 - **[Framer Motion Demos](projects/framer-motion-demos/README.md)** - A route-based gallery of motion patterns for transitions, gestures, overlays, charts, and scroll interactions.
@@ -230,6 +232,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- fetch-github-profile/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   |-- home-maintenance-log/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
