@@ -256,3 +256,5 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[NEXUS Digital Experience Studio](projects/featured1/README.md)** - A polished landing page for a fictional digital studio, with work, capabilities, about, and contact sections.
 
 - **[Goodthing Gift Idea Organizer](projects/gift-idea-organizer/README.md)** - A browser-local gift planner for recipients, occasions, budgets, and purchase status.
+
+- **[Goal Planner](projects/goal-planner/README.md)** - A local-first goal tracker with target dates, progress sliders, and milestone steps.
