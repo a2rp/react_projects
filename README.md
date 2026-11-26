@@ -8,6 +8,7 @@ A collection of complete React applications built to explore practical product w
 - **[Morrow - Appointment Booking](projects/appointment-booking/README.md)** - A responsive appointment request flow for browsing services, choosing a time, and reviewing a booking.
 - **[Assignment Planner](projects/assignment-planner/README.md)** - A local-first coursework planner with deadline tracking, assignment workflows, dashboard summaries, and CSV/calendar exports.
 - **[Atlas Supply - Wholesale Marketplace](projects/b2b-wholesale-marketplace/README.md)** - A frontend procurement workspace for comparing products and suppliers, reviewing quote requests, and tracking purchase orders.
+- **[BMI Calculator](projects/bmi-calculator/README.md)** - A responsive BMI tool with unit conversion, English/Hindi UI, browser-local history, and CSV export.
 - **[Blood Bank](projects/blood-bank/README.md)** - A local-first donor directory demo with searchable records, validated registration, and fictional sample data.
 - **[BlueSky Workspace Solutions](projects/bluesky-workspace/README.md)** - A responsive workspace-services concept site with services, projects, pricing, and contact pages.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
@@ -30,6 +31,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- b2b-wholesale-marketplace/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   |-- bmi-calculator/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
