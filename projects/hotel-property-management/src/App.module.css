@@ -1,0 +1,4 @@
+.app { min-height: 100vh; display: flex; flex-direction: column; background: var(--paper); }
+.main { flex: 1; padding-top: 74px; }
+:global(body.dialog-open) { overflow: hidden; }
+@media (max-width: 700px) { .main { padding-top: 68px; } }

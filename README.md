@@ -56,6 +56,8 @@ A collection of complete React applications built to explore practical product w
 
 - **[House Ledger - Home Maintenance Log](projects/home-maintenance-log/README.md)** - A browser-local planner for recurring home-care tasks, due dates, and completed maintenance history.
 
+- **[Maison North Hotel Operations](projects/hotel-property-management/README.md)** - A frontend hotel desk for reservations, room readiness, arrivals, and guest stays.
+
 - **[Milepost Fitness Progress Dashboard](projects/fitness-progress-dashboard/README.md)** - A local-first workout tracker with activity history, weekly goals, trends, and CSV export.
 
 - **[Framer Motion Demos](projects/framer-motion-demos/README.md)** - A route-based gallery of motion patterns for transitions, gestures, overlays, charts, and scroll interactions.
@@ -236,6 +238,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- home-maintenance-log/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   |-- hotel-property-management/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
