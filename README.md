@@ -37,6 +37,7 @@ A collection of complete React applications built to explore practical product w
 - **[Drishti Foundation](projects/drishti-foundation/README.md)** - A static foundation website concept with education, community, events, publications, and opportunity pages.
 - **[Ecommerce Product Manager](projects/ecommerce-fronend/README.md)** - A React catalog and product-entry frontend connected to an ecommerce API.
 - **[Tandem Seller Studio](projects/ecommerce-seller-dashboard/README.md)** - A local-first seller dashboard for orders, products, inventory, and sales activity.
+- **[Morrow & Made Storefront](projects/ecommerce-storefront/README.md)** - A local-only storefront demo with catalog, cart, checkout, and sample order confirmation.
 - **[Basic React Router App](projects/basic-react-router-app/README.md)** - A multi-page React starter demonstrating lazy routes, accessible navigation, responsive layouts, and static legal pages.
 
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
@@ -172,7 +173,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- ecommerce-seller-dashboard/
+|   |-- ecommerce-seller-dashboard/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- ecommerce-storefront/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
