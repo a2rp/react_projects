@@ -47,6 +47,8 @@ A collection of complete React applications built to explore practical product w
 
 - **[Gatherwell Event RSVP Manager](projects/event-rsvp-manager/README.md)** - An event planning workspace for event details, guest responses, capacity, check-in, and exports.
 
+- **[Exam Atlas](projects/exam-countdown-planner/README.md)** - A study planner for upcoming exams with countdowns, priorities, coverage notes, and local persistence.
+
 Projects live in their own folders under `projects/`. Each project includes its own setup notes and any project-specific requirements.
 
 ```text
@@ -204,7 +206,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- event-rsvp-manager/
+|   |-- event-rsvp-manager/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   `-- exam-countdown-planner/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
