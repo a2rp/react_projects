@@ -341,6 +341,10 @@ react_projects/
 |   `-- manufac-typescript-react-winedata-stats/
 |   `-- manufac-yarn-refactored-code/
 |   `-- markdown-editor/
+|   `-- marketing-automation/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
@@ -395,3 +399,4 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Wine Data Statistics - TypeScript CRA](projects/manufac-typescript-react-winedata-stats/README.md)** - A typed Create React App variant of the UCI Wine dataset statistics dashboard.
 - **[Wine Data Notes - Yarn CRA](projects/manufac-yarn-refactored-code/README.md)** - A separate Create React App design for exploring the same UCI Wine dataset with bundled records.
 - **[Markdown Editor](projects/markdown-editor/README.md)** - A local-first Markdown workspace with a live GFM preview, draft autosave, counts, copying, and download.
+- **[Goodbrief Marketing Automation](projects/marketing-automation/README.md)** - A frontend-only workspace for campaign journeys, message drafts, and sample audience segments.
