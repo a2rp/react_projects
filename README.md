@@ -70,6 +70,7 @@ A collection of complete React applications built to explore practical product w
 - **[Paperline Invoice Builder](projects/invoice-builder/README.md)** - A browser-local tool for editing invoices, calculating tax, and printing or saving PDFs.
 
 - **[Morrow HR](projects/hrms/README.md)** - A frontend HR workspace for employee records, attendance, leave requests, and payroll estimates.
+- **[Roomnote Meeting Agenda Builder](projects/meeting-agenda-builder/README.md)** - A local-first workspace for planning timed agendas, participants, facilitator notes, and follow-up.
 - **[Good Measure Monthly Budget Planner](projects/monthly-budget-planner/README.md)** - A browser-local zero-based budget planner for income, planned envelopes, spending, and allocation summaries.
 - **[Movie Search App](projects/movie-search-app/README.md)** - A configurable React movie search interface with loading, validation, empty, and service-error states.
 - **[Movie Trailer](projects/movie-trailer/README.md)** - A responsive movie-title search demo with trailer lookup, loading and empty states, and embedded playback.
