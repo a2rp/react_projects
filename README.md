@@ -60,6 +60,7 @@ A collection of complete React applications built to explore practical product w
 - **[Ledgerly Expense Tracker](projects/expense-tracker/README.md)** - A browser-local income, expense, and budget tracker with searchable transactions and monthly summaries.
 - **[Personal Finance Dashboard](projects/personal-finance-dashboard/README.md)** - A local finance overview for transactions, accounts, envelope budgets, monthly charts, and CSV export.
 - **[Personal Productivity Dashboard](projects/personal-productivity-dashboard/README.md)** - A local daily workspace combining priority tasks, focus sessions, weekly progress, and a reminder.
+- **[Good Paws Pet Care Scheduler](projects/pet-care-scheduler/README.md)** - A local pet profile and reminder app for routine care tasks.
 - **[Personal Notes Dashboard](projects/personal-notes-dashboard/README.md)** - A local notebook for tagged, searchable, pinnable notes with Markdown export.
 - **[Meridian Net Worth Dashboard](projects/personal-net-worth-dashboard/README.md)** - A local household balance sheet for estimated assets, liabilities, and net worth.
 
