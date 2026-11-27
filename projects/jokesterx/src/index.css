@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap");
+
+:root { font-family: "Manrope", sans-serif; color: #f7fbff; background: #050c13; font-synthesis: none; text-rendering: optimizeLegibility; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { min-width: 320px; margin: 0; background: radial-gradient(circle at 10% 0%, #122334 0, #050c13 38rem), #050c13; }
+button, select { font-family: inherit; }
+
+@media (max-width: 900px) { body { background: #050c13; } }
