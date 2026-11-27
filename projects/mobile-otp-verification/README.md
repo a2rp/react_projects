@@ -1,0 +1,56 @@
+# Mobile OTP Verification
+
+A responsive React demo for verifying a phone number with Firebase Authentication and a one-time password.
+
+## Features
+
+- International phone number input.
+- Firebase SMS OTP request and verification flow.
+- Recaptcha protection and clear success/error feedback.
+- Responsive fixed branded header, complete icon-only footer links, and a floating go-to-top control.
+
+## Tech Stack
+
+React, Create React App, Firebase Authentication, Material UI, Sass, React Phone Input, React Icons, and React Toastify.
+
+## Run locally
+
+```bash
+npm install
+npm start
+```
+
+1. Copy `.env.example` to `.env.local`.
+2. Add the Firebase web app values to `.env.local`.
+3. Enable Phone sign-in in Firebase Authentication and add your local and deployed domains to Firebase's authorized domains.
+
+The Firebase client configuration is included in the browser bundle. Use the Firebase web app config, restrict its API key to Firebase services, and never place privileged Google Cloud API keys in these variables.
+
+## Deploy
+
+```bash
+npm run build
+npm run deploy
+```
+
+Set the same `REACT_APP_FIREBASE_*` variables in the environment that builds the deployed site. The app shows a setup notice when the required values are missing.
+
+## Screenshot
+
+![Mobile OTP verification screen](screenshot.png)
+
+## Links
+
+- Portfolio: [https://www.ashishranjan.net/](https://www.ashishranjan.net/)
+- GitHub: [https://github.com/a2rp](https://github.com/a2rp)
+- CodePen: [https://codepen.io/ash1198](https://codepen.io/ash1198)
+- LinkedIn: [https://www.linkedin.com/in/aashishranjan](https://www.linkedin.com/in/aashishranjan)
+- Facebook: [https://www.facebook.com/theash.ashish/](https://www.facebook.com/theash.ashish/)
+- YouTube: [https://www.youtube.com/@ashishranjan-ashz?sub_confirmation=1](https://www.youtube.com/@ashishranjan-ashz?sub_confirmation=1)
+- Email: [ash.ranjan09@gmail.com](mailto:ash.ranjan09@gmail.com)
+
+## Support
+
+- Support: [https://a2rp-donation-page.netlify.app/](https://a2rp-donation-page.netlify.app/)
+- Buy Me a Coffee: [https://buymeacoffee.com/a2rp](https://buymeacoffee.com/a2rp)
+- Patreon: [https://patreon.com/a2rp](https://patreon.com/a2rp)

@@ -70,6 +70,7 @@ A collection of complete React applications built to explore practical product w
 
 - **[Morrow HR](projects/hrms/README.md)** - A frontend HR workspace for employee records, attendance, leave requests, and payroll estimates.
 - **[Mobile Apps Distribution Page](projects/mobile-apps-distribution-page/README.md)** - A searchable Android app catalog with previews and public GitHub release downloads.
+- **[Mobile OTP Verification](projects/mobile-otp-verification/README.md)** - A Firebase phone OTP sign-in demo with reCAPTCHA; configure Firebase web app credentials to run it.
 - **[Mobigic Assignment Frontend](projects/mobigic-assignment-frontend/README.md)** - A private file-management client for registration, sign-in, uploads, and sharing; it connects to the separate Mobigic Assignment Backend.
 - **[Rolebook - Job Application Tracker](projects/job-application-tracker/README.md)** - A browser-local workspace for tracking applications, interviews, follow-ups, and offers.
 - **[Joke Generator](projects/joke-generator/README.md)** - A React app for finding jokes with category, language, blacklist, and phrase filters.
