@@ -76,6 +76,7 @@ A collection of complete React applications built to explore practical product w
 - **[Movie Watchlist Plus](projects/movie-watch-list/README.md)** - A local movie library with editable metadata, ratings, filters, sorting, and browser storage.
 - **[User Management Dashboard](projects/mpatel-frontend/README.md)** - A role-aware React dashboard for JWT authentication and user administration through the separate mpatel backend API.
 - **[Moodboard Builder](projects/moodboard-builder/README.md)** - A local-first creative workspace for arranging reference images and notes, saving boards, and exporting a JSON summary.
+- **[Music Playlist Curator](projects/music-playlist-curator/README.md)** - A local-first playlist workspace for organizing mixes, reordering tracks, and simulating playback.
 - **[Mobile Apps Distribution Page](projects/mobile-apps-distribution-page/README.md)** - A searchable Android app catalog with previews and public GitHub release downloads.
 - **[Mobile OTP Verification](projects/mobile-otp-verification/README.md)** - A Firebase phone OTP sign-in demo with reCAPTCHA; configure Firebase web app credentials to run it.
 - **[Mobigic Assignment Frontend](projects/mobigic-assignment-frontend/README.md)** - A private file-management client for registration, sign-in, uploads, and sharing; it connects to the separate Mobigic Assignment Backend.
