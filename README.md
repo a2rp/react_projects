@@ -66,6 +66,7 @@ A collection of complete React applications built to explore practical product w
 
 - **[Morrow HR](projects/hrms/README.md)** - A frontend HR workspace for employee records, attendance, leave requests, and payroll estimates.
 - **[Rolebook - Job Application Tracker](projects/job-application-tracker/README.md)** - A browser-local workspace for tracking applications, interviews, follow-ups, and offers.
+- **[Joke Generator](projects/joke-generator/README.md)** - A React app for finding jokes with category, language, blacklist, and phrase filters.
 
 - **[Milepost Fitness Progress Dashboard](projects/fitness-progress-dashboard/README.md)** - A local-first workout tracker with activity history, weekly goals, trends, and CSV export.
 
@@ -275,10 +276,14 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- hrms/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
 |   |-- job-application-tracker/
 |   |   |-- src/
 |   |   |-- package.json
-|   |   -- README.md
+|   |   `-- README.md
+|   |-- joke-generator/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
