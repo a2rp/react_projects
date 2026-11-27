@@ -59,6 +59,7 @@ A collection of complete React applications built to explore practical product w
 
 - **[Ledgerly Expense Tracker](projects/expense-tracker/README.md)** - A browser-local income, expense, and budget tracker with searchable transactions and monthly summaries.
 - **[Personal Finance Dashboard](projects/personal-finance-dashboard/README.md)** - A local finance overview for transactions, accounts, envelope budgets, monthly charts, and CSV export.
+- **[Personal Notes Dashboard](projects/personal-notes-dashboard/README.md)** - A local notebook for tagged, searchable, pinnable notes with Markdown export.
 - **[Meridian Net Worth Dashboard](projects/personal-net-worth-dashboard/README.md)** - A local household balance sheet for estimated assets, liabilities, and net worth.
 
 - **[GitHub Profile Finder](projects/fetch-github-profile/README.md)** - A profile lookup app for public GitHub accounts, with responsive profile details and repository metrics.
