@@ -66,6 +66,7 @@ A collection of complete React applications built to explore practical product w
 - **[Aster Insurance Broker Workspace](projects/insurance-broker-workspace/README.md)** - A frontend workspace for client accounts, policies, renewals, and service requests.
 - **[Proof - Insurance Claims Management](projects/insurance-claims-management/README.md)** - A claims workspace for intake, evidence review, settlements, and reporting.
 - **[Rackline Inventory Dashboard](projects/inventory-dashboard/README.md)** - A browser-local stock workspace for product counts, reorder points, and inventory movements.
+- **[Pantry Notes](projects/pantry-inventory-manager/README.md)** - A browser-local pantry tracker for shelf stock, low quantities, and use-by reminders.
 - **[Northstar Investment Watchlist](projects/investment-watchlist/README.md)** - A browser-local tracker for quotes, units, price targets, and saved investments.
 - **[Paperline Invoice Builder](projects/invoice-builder/README.md)** - A browser-local tool for editing invoices, calculating tax, and printing or saving PDFs.
 
