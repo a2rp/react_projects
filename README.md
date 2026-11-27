@@ -21,6 +21,7 @@ A collection of complete React applications built to explore practical product w
 - **[BMI Calculator](projects/bmi-calculator/README.md)** - A responsive BMI tool with unit conversion, English/Hindi UI, browser-local history, and CSV export.
 - **[Blood Bank](projects/blood-bank/README.md)** - A local-first donor directory demo with searchable records, validated registration, and fictional sample data.
 - **[Book Reading List](projects/book-reading-list/README.md)** - A browser-local reading tracker for book status, progress, notes, and dates.
+- **[Personal Book Library](projects/personal-book-library/README.md)** - A visual browser-local book shelf for titles, reading status, and page progress.
 - **[Bookmark Organizer](projects/bookmark-organizer/README.md)** - A browser-local bookmark library with collections, favorites, search, and JSON export.
 - **[BlueSky Workspace Solutions](projects/bluesky-workspace/README.md)** - A responsive workspace-services concept site with services, projects, pricing, and contact pages.
 - **[Wine Dataset Statistics](projects/calculate-mean-median-mode-from-array-of-objects/README.md)** - A React dashboard comparing mean, median, and mode for measurements in the UCI Wine dataset.
