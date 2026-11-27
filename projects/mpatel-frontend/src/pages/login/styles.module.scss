@@ -1,0 +1,4 @@
+.container { display: grid; min-height: calc(100vh - 72px); place-items: center; padding: 48px 16px; }
+.card { width: min(460px, 100%); padding: 30px; border: 1px solid rgba(149,190,230,.2); border-radius: 20px; background: rgba(13,31,52,.84); box-shadow: 0 22px 70px rgba(0,0,0,.25); }
+.kicker { color: #74c5ff; font-size: 11px; font-weight: 800; letter-spacing: .15em; }
+@media (max-width: 520px) { .card { padding: 24px 18px; } }

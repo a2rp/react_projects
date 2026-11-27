@@ -1,0 +1,35 @@
+.container {
+    position: fixed;
+    inset: 0 0 auto;
+    z-index: 40;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    min-height: 72px;
+    padding: 10px clamp(16px, 5vw, 72px);
+    border-bottom: 1px solid rgba(149, 190, 230, 0.18);
+    background: rgba(7, 17, 31, 0.92);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.18);
+    backdrop-filter: blur(16px);
+}
+.brand { display: inline-flex; align-items: center; gap: 12px; color: #eff7ff; text-decoration: none; }
+.brand img { width: 42px; height: 42px; padding: 5px; border: 1px solid #416788; border-radius: 12px; background: #102742; object-fit: contain; }
+.brand span { display: grid; gap: 2px; }
+.brand small { color: #74c5ff; font-size: 9px; font-weight: 800; letter-spacing: .14em; }
+.brand strong { font-size: 16px; }
+.nav { display: flex; align-items: center; gap: 8px; }
+.navLink, .account button { display: inline-flex; align-items: center; gap: 7px; padding: 9px 12px; border: 1px solid transparent; border-radius: 9px; color: #a8bdd2; background: transparent; font-size: 14px; text-decoration: none; cursor: pointer; transition: color 180ms ease, border-color 180ms ease, box-shadow 180ms ease, text-shadow 180ms ease; }
+.navLink:hover, .navLink.active, .account button:hover { border-color: #74c5ff; color: #fff; box-shadow: 0 0 16px rgba(116, 197, 255, .14); text-shadow: 0 0 12px rgba(116, 197, 255, .3); }
+.account { display: flex; align-items: center; gap: 12px; color: #86a3bd; font-size: 13px; }
+.account span { max-width: 220px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.account button { border-color: rgba(255, 150, 150, .45); color: #ffb2b2; }
+.menuButton { display: none; width: 42px; height: 42px; place-items: center; padding: 0; border: 1px solid #416788; border-radius: 10px; color: #fff; background: transparent; cursor: pointer; }
+@media (max-width: 700px) {
+    .menuButton { display: grid; }
+    .nav { position: absolute; top: calc(100% + 8px); right: 16px; display: none; width: min(280px, calc(100vw - 32px)); padding: 10px; border: 1px solid rgba(149, 190, 230, .2); border-radius: 14px; background: #0d1d30; box-shadow: 0 20px 50px rgba(0,0,0,.4); }
+    .open { display: grid; }
+    .navLink, .account button { justify-content: flex-start; width: 100%; }
+    .account { display: grid; gap: 6px; padding: 6px; }
+    .account span { max-width: 100%; }
+}

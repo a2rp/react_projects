@@ -1,0 +1,8 @@
+.container { width: min(1120px, 94vw); margin: 0 auto; padding: 48px 0 12px; }
+.hero { padding: 34px; border: 1px solid rgba(149,190,230,.2); border-radius: 22px; background: linear-gradient(135deg, rgba(21,53,84,.9), rgba(8,22,39,.72)); box-shadow: 0 22px 70px rgba(0,0,0,.2); }
+.kicker { color: #74c5ff; font-size: 11px; font-weight: 800; letter-spacing: .15em; }
+.title { max-width: 720px; margin: 12px 0 10px; color: #f7fbff; font-size: clamp(2rem, 6vw, 4.6rem); line-height: .98; letter-spacing: -.06em; }
+.subtitle { max-width: 590px; margin: 0; color: #a9bfd3; line-height: 1.65; }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 26px; }
+.notice { margin-top: 24px; padding: 18px; border: 1px solid rgba(255,174,174,.3); border-radius: 12px; color: #ffc0c0; background: rgba(101,32,40,.25); }
+@media (max-width: 620px) { .container { padding-top: 28px; } .hero { padding: 24px 20px; } }

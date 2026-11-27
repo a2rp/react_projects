@@ -74,6 +74,7 @@ A collection of complete React applications built to explore practical product w
 - **[Movie Trailer](projects/movie-trailer/README.md)** - A responsive movie-title search demo with trailer lookup, loading and empty states, and embedded playback.
 - **[Frame List](projects/movie-watchlist/README.md)** - A browser-local movie queue with search, status filters, watch progress, and confirmed removal.
 - **[Movie Watchlist Plus](projects/movie-watch-list/README.md)** - A local movie library with editable metadata, ratings, filters, sorting, and browser storage.
+- **[User Management Dashboard](projects/mpatel-frontend/README.md)** - A role-aware React dashboard for JWT authentication and user administration through the separate mpatel backend API.
 - **[Moodboard Builder](projects/moodboard-builder/README.md)** - A local-first creative workspace for arranging reference images and notes, saving boards, and exporting a JSON summary.
 - **[Mobile Apps Distribution Page](projects/mobile-apps-distribution-page/README.md)** - A searchable Android app catalog with previews and public GitHub release downloads.
 - **[Mobile OTP Verification](projects/mobile-otp-verification/README.md)** - A Firebase phone OTP sign-in demo with reCAPTCHA; configure Firebase web app credentials to run it.

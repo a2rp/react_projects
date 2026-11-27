@@ -1,0 +1,11 @@
+.footer { margin-top: 56px; padding: 42px clamp(16px, 5vw, 72px) 22px; border-top: 1px solid rgba(149, 190, 230, .16); background: #06101d; color: #9eb5ca; }
+.columns { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 32px; width: min(1120px, 100%); margin: 0 auto; }
+.label { display: block; margin-bottom: 12px; color: #eaf4ff; font-size: 12px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.columns p { max-width: 330px; margin: 0; line-height: 1.6; }
+.links { display: flex; flex-wrap: wrap; gap: 8px; }
+.links a { display: grid; width: 38px; height: 38px; place-items: center; border: 1px solid rgba(149,190,230,.22); border-radius: 10px; color: #a9c4da; transition: color 180ms ease, border-color 180ms ease, box-shadow 180ms ease, text-shadow 180ms ease; }
+.links a:hover { border-color: #74c5ff; color: #fff; box-shadow: 0 0 16px rgba(116,197,255,.18); text-shadow: 0 0 12px rgba(116,197,255,.32); }
+.links svg { width: 17px; height: 17px; }
+.bottom { width: min(1120px, 100%); margin: 38px auto 0; padding-top: 16px; border-top: 1px solid rgba(149,190,230,.16); font-size: 13px; }
+.bottom a { color: #fff; font-weight: 800; text-decoration: none; }
+@media (max-width: 700px) { .columns { grid-template-columns: 1fr; gap: 26px; } }

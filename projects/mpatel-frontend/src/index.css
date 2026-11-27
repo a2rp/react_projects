@@ -1,0 +1,34 @@
+* { box-sizing: border-box; }
+html { min-width: 320px; scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; color: #eaf4ff; background: #07111f; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; -webkit-font-smoothing: antialiased; }
+button, input, select, textarea { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+.appShell { min-height: 100vh; background: radial-gradient(900px 460px at 15% -10%, #183758, transparent), #07111f; }
+.routeContent { min-height: calc(100vh - 72px); padding-top: 72px; }
+.pageTitle { margin: 0; color: #f7fbff; font-size: clamp(1.7rem, 4vw, 2.8rem); letter-spacing: -.04em; }
+.pageIntro { color: #9eb5ca; line-height: 1.6; }
+.goTop { position: fixed; right: 24px; bottom: 24px; z-index: 50; display: grid; width: 44px; height: 44px; place-items: center; border: 1px solid #74c5ff; border-radius: 50%; color: #07111f; background: #74c5ff; cursor: pointer; opacity: 0; pointer-events: none; transition: opacity 180ms ease, border-color 180ms ease, box-shadow 180ms ease; }
+.goTop[data-visible="true"] { opacity: 1; pointer-events: auto; }
+.goTop:hover { border-color: #fff; box-shadow: 0 0 20px rgba(116,197,255,.35); }
+.goTop:focus-visible { outline: 2px solid #fff; outline-offset: 3px; }
+@media (max-width: 620px) { .goTop { right: 16px; bottom: 16px; } }
+.eyebrow { color: #74c5ff; font-size: 11px; font-weight: 800; letter-spacing: .15em; }
+.formPage { width: min(1120px, 94vw); margin: 0 auto; padding: 48px 0; }
+.formCard { width: min(560px, 100%); padding: 30px; border: 1px solid rgba(149,190,230,.2); border-radius: 20px; background: rgba(13,31,52,.84); box-shadow: 0 22px 70px rgba(0,0,0,.22); }
+.formActions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 24px; }
+.usersSection { margin-top: 34px; padding: 26px; border: 1px solid rgba(149,190,230,.2); border-radius: 18px; background: rgba(8,22,39,.7); }
+.sectionHeading { display: flex; align-items: end; justify-content: space-between; gap: 20px; }
+.sectionTitle { margin: 10px 0 6px; color: #f7fbff; font-size: clamp(1.6rem, 4vw, 2.4rem); letter-spacing: -.04em; }
+.sectionTitle span { color: #74c5ff; font-size: .6em; vertical-align: middle; }
+.sectionText { margin: 0; color: #9eb5ca; }
+.userSearch { max-width: 560px; margin-top: 24px; }
+.userTableWrap { margin-top: 18px; overflow-x: auto; border: 1px solid rgba(149,190,230,.18); border-radius: 14px; background: rgba(10,29,49,.72); }
+.userTableWrap table { min-width: 760px; }
+.userTableWrap th { color: #7fa6c2 !important; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }
+.userTableWrap td { color: #c7d9e9; border-color: rgba(149,190,230,.12) !important; }
+.userTableWrap tbody tr { transition: background-color 180ms ease, box-shadow 180ms ease; }
+.userTableWrap tbody tr:hover { background: rgba(116,197,255,.07); box-shadow: inset 3px 0 #74c5ff; }
+.roleBadge { display: inline-flex; padding: 5px 9px; border: 1px solid rgba(116,197,255,.25); border-radius: 999px; color: #bfe3ff; font-size: 12px; }
+.tableActions { display: flex; justify-content: flex-end; gap: 8px; }
+.emptyState { padding: 28px 10px; color: #8ca5bc; text-align: center; }
+@media (max-width: 700px) { .usersSection { padding: 18px 14px; } .sectionHeading { align-items: flex-start; flex-direction: column; } .tableActions { justify-content: flex-start; } }
