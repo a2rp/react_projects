@@ -98,6 +98,7 @@ A collection of complete React applications built to explore practical product w
 - **[JokesterX](projects/jokesterx/README.md)** - A responsive JokeAPI app for fetching, copying, and browsing category-based one-liners.
 - **[Private Journal](projects/journal/README.md)** - A browser-local journal with AES-GCM encrypted entries and passphrase-based unlock.
 - **[Password Manager](projects/password-manager/README.md)** - A local-only credential workflow demo for CRUD, password generation, and search; entries are stored unencrypted in browser storage.
+- **[Password Strength Checker](projects/password-strength-checker/README.md)** - A browser-local heuristic checker that never uploads or stores the entered password.
 - **[JSON Formatter](projects/json-formatter/README.md)** - A browser-only JSON formatter, minifier, validator, and object-key sorter.
 
 - **[Milepost Fitness Progress Dashboard](projects/fitness-progress-dashboard/README.md)** - A local-first workout tracker with activity history, weekly goals, trends, and CSV export.
