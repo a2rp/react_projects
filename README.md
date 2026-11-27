@@ -336,6 +336,10 @@ react_projects/
 |       `-- README.md
 |   `-- local-event-discovery/
 |   `-- logo-concept-board/
+|   `-- lyrics-finder/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
@@ -370,3 +374,4 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[LendDesk - Loan Origination Platform](projects/loan-origination-platform/README.md)** - A frontend-only lending workspace for application tracking, underwriting review, and product management with demo data.
 - **[Sidewalk - Local Event Discovery](projects/local-event-discovery/README.md)** - A Portland event guide with search, category/date/neighborhood filters, saved events, and event details.
 - **[Markboard Logo Concept Studio](projects/logo-concept-board/README.md)** - A brand identity workbench for generating logo directions, refining palettes and type, saving concepts, and exporting SVG.
+- **[Lyrics Finder](projects/lyrics-finder/README.md)** - A responsive React app for searching and reading song lyrics through the lyrics.ovh API.
