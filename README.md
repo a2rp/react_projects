@@ -70,6 +70,7 @@ A collection of complete React applications built to explore practical product w
 
 - **[Morrow HR](projects/hrms/README.md)** - A frontend HR workspace for employee records, attendance, leave requests, and payroll estimates.
 - **[Good Measure Monthly Budget Planner](projects/monthly-budget-planner/README.md)** - A browser-local zero-based budget planner for income, planned envelopes, spending, and allocation summaries.
+- **[Movie Search App](projects/movie-search-app/README.md)** - A configurable React movie search interface with loading, validation, empty, and service-error states.
 - **[Moodboard Builder](projects/moodboard-builder/README.md)** - A local-first creative workspace for arranging reference images and notes, saving boards, and exporting a JSON summary.
 - **[Mobile Apps Distribution Page](projects/mobile-apps-distribution-page/README.md)** - A searchable Android app catalog with previews and public GitHub release downloads.
 - **[Mobile OTP Verification](projects/mobile-otp-verification/README.md)** - A Firebase phone OTP sign-in demo with reCAPTCHA; configure Firebase web app credentials to run it.
