@@ -1,0 +1,37 @@
+import i18n from "i18next";
+import { initReactI18next } from "react-i18next";
+import LanguageDetector from "i18next-browser-languagedetector";
+import Backend from "i18next-http-backend";
+
+const languages = ["en", "fr", "hi"];
+
+i18n
+    .use(Backend)
+    .use(LanguageDetector)
+    .use(initReactI18next)
+    .init({
+        fallbackLng: "en",
+        supportedLngs: languages,
+        debug: false,
+        backend: {
+            loadPath:
+                (process.env.PUBLIC_URL || "") +
+                "/locales/{{lng}}/translation.json",
+        },
+        detection: {
+            order: ["localStorage", "navigator"],
+            caches: ["localStorage"],
+            convertDetectedLanguage: (language) =>
+                language.toLowerCase() === "hin" || language.toLowerCase().startsWith("hi-")
+                    ? "hi"
+                    : language,
+        },
+        interpolation: {
+            escapeValue: false,
+        },
+        react: {
+            useSuspense: false,
+        },
+    });
+
+export default i18n;
