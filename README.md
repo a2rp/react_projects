@@ -88,6 +88,7 @@ A collection of complete React applications built to explore practical product w
 - **[Nova Admin Dashboard](projects/nova/README.md)** - A responsive frontend admin demo with dashboards, charts, user views, account settings, and sample data.
 - **[Packwell - Packing Checklist](projects/packing-checklist/README.md)** - A local-first trip planner with profiles, custom items, category filters, and per-trip saved progress.
 - **[Mobigic Assignment Frontend](projects/mobigic-assignment-frontend/README.md)** - A private file-management client for registration, sign-in, uploads, and sharing; it connects to the separate Mobigic Assignment Backend.
+- **[MERN Auth Chakra Frontend](projects/mern-auth-chakra-frontend/README.md)** - A React authentication client with HttpOnly cookie sessions, protected profiles, and role-based admin tools; it connects to the Express backend collection.
 - **[Rolebook - Job Application Tracker](projects/job-application-tracker/README.md)** - A browser-local workspace for tracking applications, interviews, follow-ups, and offers.
 - **[Joke Generator](projects/joke-generator/README.md)** - A React app for finding jokes with category, language, blacklist, and phrase filters.
 - **[JokesterX](projects/jokesterx/README.md)** - A responsive JokeAPI app for fetching, copying, and browsing category-based one-liners.
