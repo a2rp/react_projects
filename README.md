@@ -37,6 +37,7 @@ A collection of complete React applications built to explore practical product w
 - **[Drishti Foundation](projects/drishti-foundation/README.md)** - A static foundation website concept with education, community, events, publications, and opportunity pages.
 - **[JWIT Website](projects/jwit-website/README.md)** - A responsive community website for Jamshedpur Women in Technology, with events, mentorship, resources, sponsors, and member pages.
 - **[Kanban Board](projects/kanban-board/README.md)** - A browser-local task board with drag-and-drop columns, card editing, and per-column filters.
+- **[KYC Verification](projects/kyc-verification/README.md)** - A front-end-only identity form demo with client-side validation and no data submission or storage.
 - **[Ecommerce Product Manager](projects/ecommerce-fronend/README.md)** - A React catalog and product-entry frontend connected to an ecommerce API.
 - **[Tandem Seller Studio](projects/ecommerce-seller-dashboard/README.md)** - A local-first seller dashboard for orders, products, inventory, and sales activity.
 - **[Morrow & Made Storefront](projects/ecommerce-storefront/README.md)** - A local-only storefront demo with catalog, cart, checkout, and sample order confirmation.
@@ -213,6 +214,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- kanban-board/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   `-- README.md
+|   |-- kyc-verification/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
