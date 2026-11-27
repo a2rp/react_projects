@@ -342,6 +342,10 @@ react_projects/
 |   `-- manufac-yarn-refactored-code/
 |   `-- markdown-editor/
 |   `-- marketing-automation/
+|   `-- material-ui-form/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
@@ -400,3 +404,4 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Wine Data Notes - Yarn CRA](projects/manufac-yarn-refactored-code/README.md)** - A separate Create React App design for exploring the same UCI Wine dataset with bundled records.
 - **[Markdown Editor](projects/markdown-editor/README.md)** - A local-first Markdown workspace with a live GFM preview, draft autosave, counts, copying, and download.
 - **[Goodbrief Marketing Automation](projects/marketing-automation/README.md)** - A frontend-only workspace for campaign journeys, message drafts, and sample audience segments.
+- **[Material UI Form](projects/material-ui-form/README.md)** - A responsive form demo with validation, grouped inputs, a confirmation dialog, and privacy-safe local handling.
