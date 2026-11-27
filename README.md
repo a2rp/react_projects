@@ -65,6 +65,7 @@ A collection of complete React applications built to explore practical product w
 - **[Paperline Invoice Builder](projects/invoice-builder/README.md)** - A browser-local tool for editing invoices, calculating tax, and printing or saving PDFs.
 
 - **[Morrow HR](projects/hrms/README.md)** - A frontend HR workspace for employee records, attendance, leave requests, and payroll estimates.
+- **[Rolebook - Job Application Tracker](projects/job-application-tracker/README.md)** - A browser-local workspace for tracking applications, interviews, follow-ups, and offers.
 
 - **[Milepost Fitness Progress Dashboard](projects/fitness-progress-dashboard/README.md)** - A local-first workout tracker with activity history, weekly goals, trends, and CSV export.
 
@@ -274,6 +275,10 @@ react_projects/
 |   |   |-- package.json
 |   |   `-- README.md
 |   |-- hrms/
+|   |-- job-application-tracker/
+|   |   |-- src/
+|   |   |-- package.json
+|   |   -- README.md
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
