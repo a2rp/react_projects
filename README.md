@@ -337,6 +337,10 @@ react_projects/
 |   `-- local-event-discovery/
 |   `-- logo-concept-board/
 |   `-- lyrics-finder/
+|   `-- manufac-javascript-react-winedata-stats-refactored-code/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
@@ -375,3 +379,4 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Sidewalk - Local Event Discovery](projects/local-event-discovery/README.md)** - A Portland event guide with search, category/date/neighborhood filters, saved events, and event details.
 - **[Markboard Logo Concept Studio](projects/logo-concept-board/README.md)** - A brand identity workbench for generating logo directions, refining palettes and type, saving concepts, and exporting SVG.
 - **[Lyrics Finder](projects/lyrics-finder/README.md)** - A responsive React app for searching and reading song lyrics through the lyrics.ovh API.
+- **[Wine Data Statistics - CRA Refactored](projects/manufac-javascript-react-winedata-stats-refactored-code/README.md)** - An alternate Create React App implementation of the UCI Wine dataset statistics dashboard.
