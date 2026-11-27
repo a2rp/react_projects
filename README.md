@@ -82,6 +82,7 @@ A collection of complete React applications built to explore practical product w
 - **[Moodboard Builder](projects/moodboard-builder/README.md)** - A local-first creative workspace for arranging reference images and notes, saving boards, and exporting a JSON summary.
 - **[Music Playlist Curator](projects/music-playlist-curator/README.md)** - A local-first playlist workspace for organizing mixes, reordering tracks, and simulating playback.
 - **[JavaScript Notes](projects/notes-javascript/README.md)** - An interactive React learning app with focused lessons on JavaScript fundamentals, built-ins, modules, asynchronous behavior, and advanced topics.
+- **[Passion4Profession Blog](projects/passion4profession-blog/README.md)** - A React archive of technical articles with searchable navigation, theme switching, and lazy-loaded reading routes.
 - **[Kindred - Nonprofit Donor Management](projects/nonprofit-donor-management/README.md)** - A frontend-only donor workspace for sample records, campaigns, gifts, and stewardship follow-ups.
 - **[Mobile Apps Distribution Page](projects/mobile-apps-distribution-page/README.md)** - A searchable Android app catalog with previews and public GitHub release downloads.
 - **[Mobile OTP Verification](projects/mobile-otp-verification/README.md)** - A Firebase phone OTP sign-in demo with reCAPTCHA; configure Firebase web app credentials to run it.
