@@ -17,6 +17,7 @@ A collection of complete React applications built to explore practical product w
 - **[Atlas Supply - Wholesale Marketplace](projects/b2b-wholesale-marketplace/README.md)** - A frontend procurement workspace for comparing products and suppliers, reviewing quote requests, and tracking purchase orders.
 - **[Chakra UI Showcase](projects/chakra-ui-showcase/README.md)** - A responsive React showcase for exploring Chakra UI components, themes, working interface patterns, and practical examples.
 - **[Clinic Management System](projects/clinic-management-system/README.md)** - A frontend-only clinic workspace for managing appointments, patient records, and care-team shifts with fictional demo data.
+- **[Wellnest Patient Portal](projects/patient-portal/README.md)** - A frontend demo for appointments and fictional health records; it has no backend or persistent patient data.
 - **[BMI Calculator](projects/bmi-calculator/README.md)** - A responsive BMI tool with unit conversion, English/Hindi UI, browser-local history, and CSV export.
 - **[Blood Bank](projects/blood-bank/README.md)** - A local-first donor directory demo with searchable records, validated registration, and fictional sample data.
 - **[Book Reading List](projects/book-reading-list/README.md)** - A browser-local reading tracker for book status, progress, notes, and dates.
