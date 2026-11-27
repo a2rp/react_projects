@@ -61,6 +61,7 @@ A collection of complete React applications built to explore practical product w
 - **[Personal Finance Dashboard](projects/personal-finance-dashboard/README.md)** - A local finance overview for transactions, accounts, envelope budgets, monthly charts, and CSV export.
 - **[Personal Productivity Dashboard](projects/personal-productivity-dashboard/README.md)** - A local daily workspace combining priority tasks, focus sessions, weekly progress, and a reminder.
 - **[Good Paws Pet Care Scheduler](projects/pet-care-scheduler/README.md)** - A local pet profile and reminder app for routine care tasks.
+- **[Stillroom Photo Gallery Viewer](projects/photo-gallery-viewer/README.md)** - A local photo collection browser with search, favorites, and an accessible viewer.
 - **[Personal Notes Dashboard](projects/personal-notes-dashboard/README.md)** - A local notebook for tagged, searchable, pinnable notes with Markdown export.
 - **[Meridian Net Worth Dashboard](projects/personal-net-worth-dashboard/README.md)** - A local household balance sheet for estimated assets, liabilities, and net worth.
 
