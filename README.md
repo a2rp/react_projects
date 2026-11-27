@@ -58,6 +58,7 @@ A collection of complete React applications built to explore practical product w
 - **[Exam Atlas](projects/exam-countdown-planner/README.md)** - A study planner for upcoming exams with countdowns, priorities, coverage notes, and local persistence.
 
 - **[Ledgerly Expense Tracker](projects/expense-tracker/README.md)** - A browser-local income, expense, and budget tracker with searchable transactions and monthly summaries.
+- **[Personal Finance Dashboard](projects/personal-finance-dashboard/README.md)** - A local finance overview for transactions, accounts, envelope budgets, monthly charts, and CSV export.
 
 - **[GitHub Profile Finder](projects/fetch-github-profile/README.md)** - A profile lookup app for public GitHub accounts, with responsive profile details and repository metrics.
 
