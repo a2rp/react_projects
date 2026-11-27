@@ -326,7 +326,11 @@ react_projects/
 |   |   |-- src/
 |   |   |-- package.json
 |   |   `-- README.md
-|   `-- framer-motion-demos/
+|   |-- framer-motion-demos/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
+|   `-- loan-origination-platform/
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
@@ -355,3 +359,4 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Market Day Grocery List Planner](projects/grocery-list-planner/README.md)** - A local shopping planner with aisle filters, basket tracking, and estimated totals.
 
 - **[Habit Tracker](projects/habit-tracker/README.md)** - A browser-local weekly habit grid with check-ins, streak counts, and week navigation.
+- **[LendDesk - Loan Origination Platform](projects/loan-origination-platform/README.md)** - A frontend-only lending workspace for application tracking, underwriting review, and product management with demo data.
