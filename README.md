@@ -335,6 +335,10 @@ react_projects/
 |       |-- package.json
 |       `-- README.md
 |   `-- local-event-discovery/
+|   `-- logo-concept-board/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
@@ -365,3 +369,4 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Habit Tracker](projects/habit-tracker/README.md)** - A browser-local weekly habit grid with check-ins, streak counts, and week navigation.
 - **[LendDesk - Loan Origination Platform](projects/loan-origination-platform/README.md)** - A frontend-only lending workspace for application tracking, underwriting review, and product management with demo data.
 - **[Sidewalk - Local Event Discovery](projects/local-event-discovery/README.md)** - A Portland event guide with search, category/date/neighborhood filters, saved events, and event details.
+- **[Markboard Logo Concept Studio](projects/logo-concept-board/README.md)** - A brand identity workbench for generating logo directions, refining palettes and type, saving concepts, and exporting SVG.
