@@ -344,6 +344,10 @@ react_projects/
 |   `-- marketing-automation/
 |   `-- material-ui-form/
 |   `-- meal-planner/
+|   `-- media-recommendation-board/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
@@ -410,3 +414,4 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Goodbrief Marketing Automation](projects/marketing-automation/README.md)** - A frontend-only workspace for campaign journeys, message drafts, and sample audience segments.
 - **[Material UI Form](projects/material-ui-form/README.md)** - A responsive form demo with validation, grouped inputs, a confirmation dialog, and privacy-safe local handling.
 - **[Tableful Meal Planner](projects/meal-planner/README.md)** - A local-first weekly meal planner with recipe management, calorie estimates, and a shopping list.
+- **[Reel & Record Media Recommendation Board](projects/media-recommendation-board/README.md)** - A local-first shortlist for browsing and saving films, series, books, albums, and games.
