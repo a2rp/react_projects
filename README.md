@@ -339,6 +339,10 @@ react_projects/
 |   `-- lyrics-finder/
 |   `-- manufac-javascript-react-winedata-stats-refactored-code/
 |   `-- manufac-typescript-react-winedata-stats/
+|   `-- manufac-yarn-refactored-code/
+|       |-- src/
+|       |-- package.json
+|       `-- README.md
 |       |-- src/
 |       |-- package.json
 |       `-- README.md
@@ -385,3 +389,4 @@ The collection is licensed under the MIT License. Individual projects may includ
 - **[Lyrics Finder](projects/lyrics-finder/README.md)** - A responsive React app for searching and reading song lyrics through the lyrics.ovh API.
 - **[Wine Data Statistics - CRA Refactored](projects/manufac-javascript-react-winedata-stats-refactored-code/README.md)** - An alternate Create React App implementation of the UCI Wine dataset statistics dashboard.
 - **[Wine Data Statistics - TypeScript CRA](projects/manufac-typescript-react-winedata-stats/README.md)** - A typed Create React App variant of the UCI Wine dataset statistics dashboard.
+- **[Wine Data Notes - Yarn CRA](projects/manufac-yarn-refactored-code/README.md)** - A separate Create React App design for exploring the same UCI Wine dataset with bundled records.
