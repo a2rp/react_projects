@@ -1,0 +1,142 @@
+.appShell {
+    min-height: 100vh;
+    padding-top: 76px;
+    background: var(--page);
+    color: var(--ink);
+    font-family: var(--font-body);
+
+    .pageContent {
+        width: min(100% - 48px, 1440px);
+        margin-inline: auto;
+        padding-block: 38px 0;
+    }
+
+    .intro {
+        display: flex;
+        align-items: end;
+        justify-content: space-between;
+        gap: 30px;
+        min-height: 186px;
+        padding-bottom: 26px;
+
+        .location {
+            margin-bottom: 10px;
+            color: var(--forest);
+            font-size: 14px;
+            font-weight: 700;
+        }
+
+        h1 {
+            max-width: 820px;
+            font-family: var(--font-display);
+            font-size: clamp(46px, 5.8vw, 72px);
+            letter-spacing: -0.05em;
+            line-height: 0.98;
+        }
+
+        .description {
+            max-width: 620px;
+            margin-top: 16px;
+            color: var(--muted);
+            font-size: 17px;
+        }
+
+        .sampleNote {
+            max-width: 220px;
+            padding: 11px 13px;
+            border-left: 2px solid var(--amber);
+            color: var(--muted);
+            font-size: 13px;
+        }
+    }
+
+    .workspace {
+        display: grid;
+        grid-template-columns: minmax(260px, 0.86fr) minmax(
+                430px,
+                1.7fr
+            ) minmax(270px, 0.9fr);
+        grid-template-areas: "explorer map details";
+        align-items: start;
+        gap: 18px;
+        scroll-margin-top: 92px;
+    }
+
+    .explorerSlot {
+        grid-area: explorer;
+        min-width: 0;
+    }
+
+    .mapColumn {
+        grid-area: map;
+        display: grid;
+        min-width: 0;
+        gap: 14px;
+    }
+
+    .about {
+        margin-top: 22px;
+        padding: 20px 22px;
+        border: 1px solid var(--line);
+        border-radius: 15px;
+        background: var(--surface);
+        scroll-margin-top: 92px;
+
+        h2 {
+            font-family: var(--font-display);
+            font-size: 24px;
+        }
+
+        p {
+            margin-top: 8px;
+            color: var(--muted);
+            font-size: 13px;
+        }
+    }
+
+    @media (max-width: 1180px) {
+        .workspace {
+            grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+            grid-template-areas:
+                "explorer explorer"
+                "map details";
+        }
+    }
+
+    @media (max-width: 760px) {
+        padding-top: 68px;
+
+        .pageContent {
+            width: min(100% - 28px, 1440px);
+            padding-block: 28px 0;
+        }
+
+        .intro {
+            display: grid;
+            gap: 18px;
+            min-height: 0;
+            padding-bottom: 22px;
+
+            .description {
+                font-size: 16px;
+            }
+
+            .sampleNote {
+                max-width: none;
+            }
+        }
+
+        .workspace {
+            grid-template-columns: minmax(0, 1fr);
+            grid-template-areas:
+                "explorer"
+                "map"
+                "details";
+            gap: 14px;
+        }
+
+        .about {
+            padding: 19px;
+        }
+    }
+}
