@@ -1,0 +1,38 @@
+{
+    "name": "mobigic-assignment-frontend",
+    "version": "0.1.0",
+    "private": true,
+    "description": "A React client for private file uploads, owner-scoped file management, and shareable downloads.",
+    "homepage": "https://a2rp.github.io/mobigic-assignment-frontend/",
+    "license": "MIT",
+    "engines": {
+        "node": ">=22.12"
+    },
+    "scripts": {
+        "start": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "test": "vitest run",
+        "test:watch": "vitest",
+        "predeploy": "npm run build",
+        "deploy": "npx --yes gh-pages -d dist -b gh-pages"
+    },
+    "dependencies": {
+        "axios": "^1.5.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-icons": "^5.7.0",
+        "react-router-dom": "^7.18.5"
+    },
+    "devDependencies": {
+        "@testing-library/jest-dom": "^6.9.1",
+        "@testing-library/react": "^13.4.0",
+        "@testing-library/user-event": "^13.5.0",
+        "@vitejs/plugin-react": "^6.0.0",
+        "jsdom": "^27.2.0",
+        "sass": "^1.66.1",
+        "vite": "^8.3.0",
+        "vitest": "^5.1.0"
+    },
+    "type": "module"
+}
